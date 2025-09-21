@@ -30,4 +30,9 @@
 #include <iterator>
 #include <cassert>
 
+using namespace std;
+
 #endif
+
+//If your are using windows or linux, you can use the following import instead:
+//#include <bits/stdc++.h>
