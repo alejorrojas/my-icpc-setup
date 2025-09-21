@@ -1,6 +1,6 @@
 # ICPC - Template
 
-This is my C++ tempalte project for solving ICPC algorithmic.
+This is my C++ tempalte project for solving ICPC problems.
 
 ## Compile the project on macOS
 ```bash
